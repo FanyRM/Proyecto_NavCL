@@ -113,7 +113,7 @@ Alpaca y capibara: https://github.com/FanyRM/Proyecto_NavCL/blob/main/AlpacaCode
 |--------------|--------------|
 | Nombre del alumno  a evaluar | Ramirez Matehuala Celeste Estefania |
 | Número de control | 1223100435 |
-| Positivo | Mi companiera es muy buena en la logica de disenio y como se podria llevar acabo la funcionalida del proyecto, le sabe y l;a verdad es muy buena e stoy muy sorprendido y orgulloso de como es debido a su gran trabajo y desempenio en el trabajo |
+| Positivo | Mi companiera es muy buena en la logica de diseño y como se podria llevar acabo la funcionalida del proyecto, le sabe y la verdad es muy buena estoy muy sorprendido y orgulloso de como es debido a su gran trabajo y desempenio en el trabajo |
 | Negativo | Debido a que tiene ideas tan extravagantes y buenas, no sabe como expresarlas de manera clara y gracias a eso no nos comunicamos de manera correcta y se molesto mucho por no poder comprender exactamente como lo queria, entonces su descontrol de mal humor y discuciones era muy seguida de ella y mia, por el hecho de que no congeniabamos mucho por eso |
-| A mejorar | Puede llegar a mejorar su control de emocion o comprension y empatia porque era muy de quiero hacer esto y lo quiero asi, pero siemnmto que solo se enfocaba en querer hacerlo de una manera y las tareas las tenia mal organizadas, pero solo mejorar su control y organizacion de ideas en expresion |
+| A mejorar | Puede llegar a mejorar su control de emociones o comprension y empatia porque era muy de quiero hacer esto y lo quiero asi, pero siemnmto que solo se enfocaba en querer hacerlo de una manera y las tareas las tenia mal organizadas, pero solo mejorar su control y organizacion de ideas en expresion |
 
